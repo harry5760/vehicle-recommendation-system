@@ -1,5 +1,10 @@
 # 🚗 Vehicle Recommendation System
 
+## 🌐 Live Demo
+
+🚀 **Try the app here:**  👉 https://vehicle-recommendation-system.streamlit.app
+
+
 An end-to-end Machine Learning based vehicle recommendation system that suggests the best vehicles based on user preferences such as budget, durability, maintenance cost, fuel type, and segment.
 
 ## 🔥 Features
